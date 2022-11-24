@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7ce5c;
+}
+h1  {
+    color: black;
+	font-size: 46px;
+	position: relative;
+	top: -60px;
+	left: -50px;
+}
+h3  {
+    color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 12px;
+	right: -300px;
+}
+h4  {
+    color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 12px;
+	right: -400px;
+}
+span  {
+	position: absolute;
+    left: 10px;
+    top: 10px;
+	width: 70%;
+}
+form {
+  padding-top: 7px;
+  font-size: 15px;
+}
+p  {
+    color: black;
+	font-size: 18px;
+}
+footer {
+position: absolute;
+top: 290px;
+right: 495px;
+bottom: -100px;
+width: 500px;
+text-align: center;
+margin-left: 0;
+padding: 20px;
+margin: 20px;
+}
+#object1 {
+            width: 1500px;
+            height: 1500px;
+            position: absolute;
+        }
+#object2 {
+            border-radius: 8px;
+			width: 500px;
+            height: 300px;
+            position: absolute;
+			bottom: 30px;
+            left: 330px;
+        }
